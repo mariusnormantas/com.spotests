@@ -1,0 +1,55 @@
+{
+  "Unexpected Error Occurred": "Įvyko nenumatyta klaida",
+  "Bad Request": "Įvyko nenumatyta klaida",
+  "Forbidden": "Įvyko nenumatyta klaida",
+  "Too many request attempts": "Šiuo metu norimi veiksmai negalimi, pabandykite vėliau",
+  "You do not have the rights to perform these actions": "Jūs neturite atitinkamų teisių atlikti šiems veiksmams",
+
+  "Please fill out all required fields": "Užpildykite visus būtinus laukelius",
+  "Email address does not match requirements": "El. pašto adresas neatitinka reikalavimų",
+  "Password does not match requirements": "Slaptažodis neatitinka reikalavimų",
+  "Email address or password is incorrect": "El. pašto adresas arba slaptažodis neteisingas",
+  "Sorry, password can not be updated": "Atsiprašome, slaptažodis negali būti atnaujintas",
+  "Account is currently locked": "Paskyra šiuo metu yra užrakinta",
+
+  "Lock status does not match requirements": "Užrakto status neatitinka reikalavimų",
+  "Lock reason does not match requirements": "Užrakto priežastis neatitinka reikalavimų",
+
+  "Organization can not be created, please check provided data or try again later": "Organizacija nesukurta, prašome patikrinti įvestus duomenis ir pabandyti dar kartą",
+  "Organization can not be updated, please check provided data or try again later": "Organizacijos informacija neatnaujinta, prašome patikrinti įvestus duomenis ir pabandyti dar kartą",
+  "Organization not found, please check provided data or try again later": "Organizacija nerasta, prašome patikrinti įvestus duomenis ir pabandyti dar kartą",
+
+  "Teams limit does not match requirements": "Komandų limitas neatitinka reikalavimų",
+  "Trainers limit does not match requirements": "Trenerių limitas neatitinka reikalavimų",
+  "Athletes limit does not match requirements": "Sportininkų limitas neatitinka reikalavimų",
+  "Testings limit does not match requirements": "Testavimų limitas neatitinka reikalavimų",
+
+  "Date does not match requirements": "Data neatitinka reikalavimų",
+  "Birth date does not match requirements": "Gimimo data neatitinka reikalavimų",
+  "Height does not match requirements": "Ūgis neatitinka reikalavimų",
+  "Weight does not match requirements": "Svoris neatitinka reikalavimų",
+
+  "Team not found, please check provided data or try again later": "Komanda nerasta, prašome patikrinti įvestus duomenis ir pabandyti dar kartą",
+  "Team can not be created, because limit has been reached": "Komanda nesukurta, nes pasiektas komandų limitas",
+  "Team can not be created, please check provided data or try again later": "Komanda nesukurta, prašome patikrinti įvestus duomenis ir pabandyti dar kartą",
+  "Team can not be updated, please check provided data or try again later": "Komandos informacija neatnaujinta, prašome patikrinti įvestus duomenis ir pabandyti dar kartą",
+  "Team can not be deleted, please check provided data or try again later": "Komanda neištrinta, prašome patikrinti įvestus duomenis ir pabandyti dar kartą",
+
+  "Trainer not found, please check provided data or try again later": "Treneris nerastas, prašome patikrinti įvestus duomenis ir pabandyti dar kartą",
+  "Trainer can not be created, because limit has been reached": "Treneris nesukurtas, nes pasiektas trenerių limitas",
+  "Trainer can not be created, please check provided data or try again later": "Treneris nesukurtas, prašome patikrinti įvestus duomenis ir pabandyti dar kartą",
+  "Trainer can not be updated, please check provided data or try again later": "Trenerio informacija neatnaujinta, prašome patikrinti įvestus duomenis ir pabandyti dar kartą",
+  "Trainer can not be deleted, please check provided data or try again later": "Treneris neištrintas, prašome patikrinti įvestus duomenis ir pabandyti dar kartą",
+
+  "Athlete not found, please check provided data or try again later": "Sportininkas nerastas, prašome patikrinti įvestus duomenis ir pabandyti dar kartą",
+  "Athlete can not be created, because limit has been reached": "Sportininkas nesukurtas, nes pasiektas sportininkų limitas",
+  "Athlete can not be created, please check provided data or try again later": "Sportininkas nesukurtas, prašome patikrinti įvestus duomenis ir pabandyti dar kartą",
+  "Athlete can not be updated, please check provided data or try again later": "Sportininko informacija neatnaujinta, prašome patikrinti įvestus duomenis ir pabandyti dar kartą",
+  "Athlete can not be deleted, please check provided data or try again later": "Sportininkas neištrintas, prašome patikrinti įvestus duomenis ir pabandyti dar kartą",
+
+  "Testing not found, please check provided data or try again later": "Testavimas nerastas, prašome patikrinti įvestus duomenis ir pabandyti dar kartą",
+  "Testing can not be created, because limit has been reached": "Testavimas nesukurtas, nes pasiektas testavimų limitas",
+  "Testing can not be created, please check provided data or try again later": "Testavimas nesukurtas, prašome patikrinti įvestus duomenis ir pabandyti dar kartą",
+  "Testing can not be updated, please check provided data or try again later": "Testavimo informacija neatnaujinta, prašome patikrinti įvestus duomenis ir pabandyti dar kartą",
+  "Testing can not be deleted, please check provided data or try again later": "Testavimas neištrintas, prašome patikrinti įvestus duomenis ir pabandyti dar kartą"
+}

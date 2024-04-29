@@ -1,0 +1,46 @@
+{
+  "Organization": "Organizacija",
+  "Organizations": "Organizacijos",
+  "New organization": "Nauja organizacija",
+  "Overview of Organization": "Organizacijos apžvalga",
+  "Overview of Organizations": "Organizacijų apžvalga",
+  "List of Organizations": "Organizacijų sąrašas",
+  "Create new organization": "Sukurti naują organizaciją",
+  "Statistics of limits": "Limitų statistika",
+  "Open organization": "Atidaryti organizaciją",
+
+  "Creating organization, please wait": "Organizacija kuriama, prašome palaukti",
+  "Updating organization's information, please wait": "Organizacijos informacija atnaujinama, prašome palaukti",
+  "Updating organization's lock, please wait": "Organizacijos užraktas atnaujinamas, prašome palaukti",
+
+  "Limit": "Limitas",
+  "Limits": "Limitai",
+  "Teams limit": "Komandų limitas",
+  "Trainers limit": "Trenerių limitas",
+  "Athletes limit": "Sportininkų limitas",
+  "Testings limit": "Testavimų limitas",
+  "The testings limit defines the number of tests allowed per athlete": "Testavimų limitas apibrėžia leidžiamų testų skaičių vienam sportininkui",
+
+  "Set limits": "Nustatyti limitus",
+  "Change limits": "Keisti limitus",
+  "Change teams limit": "Keisti komandų limitą",
+  "Change trainers limit": "Keisti trenerių limitą",
+  "Change athletes limit": "Keisti sportininkų limitą",
+  "Change testings limit": "Keisti testavimų limitą",
+
+  "Enter organization's name": "Įveskite organizacijos pavadinimą",
+  "Enter organization's email address": "Įveskite organizacijos el. pašto adresą",
+  "Enter organization's limit for teams": "Įveskite organizacijos komandų limitą",
+  "Enter organization's limit for trainers": "Įveskite organizacijos trenerių limitą",
+  "Enter organization's limit for athletes": "Įveskite organizacijos sportininkų limitą",
+  "Enter organization's limit for testings": "Įveskite organizacijos testavimų limitą",
+
+  "Teams created: {{count}}": "Turimos komandos: {{count}}",
+  "Trainers created: {{count}}": "Turimi treneriai: {{count}}",
+  "Athletes created: {{count}}": "Turimi sportininkai: {{count}}",
+  "Testings created: {{count}}": "Turimi testavimai: {{count}}",
+
+  "Organization has been created successfully": "Organizacija sėkmingai sukurta",
+  "Organization has been updated successfully": "Organizacijos informacija atnaujinta sėkmingai",
+  "Organization's lock has been updated": "Organizacijos užraktas atnaujintas"
+}

@@ -1,0 +1,5 @@
+node_modules
+.env
+
+# Do not push to public repository to avoid sharing main business logic.
+src/features/testings

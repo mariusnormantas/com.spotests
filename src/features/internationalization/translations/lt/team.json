@@ -1,0 +1,40 @@
+{
+  "Team": "Komanda",
+  "Teams": "Komandos",
+  "New team": "Nauja komanda",
+  "Overview of Team": "Komandos apžvalga",
+  "Overview of Teams": "Komandų apžvalga",
+  "List of Teams": "Komandų sąrašas",
+  "Create new team": "Sukurti naują komandą",
+  "Edit team": "Redaguoti komandą",
+  "Delete team": "Ištrinti komandą",
+  "Statistics of members": "Narių statistika",
+
+  "Add description": "Pridėti aprašymą",
+  "Edit description": "Redaguoti aprašymą",
+  "Full description": "Pilnas aprašymas",
+
+  "Teams of organization": "Organizacijos komandos",
+  "Total members of team": "Viso komandos narių",
+  "Total count of team's trainers and athletes": "Bendras komandos trenerių ir sportininkų skaičius",
+  "Team's creation date and time": "Komandos sukūrimo data ir laikas",
+  "Account responsible for creation of team": "Paskyra atsakinga už komandos sukūrimą",
+
+  "Manage members of team": "Tvarkyti komandos narius",
+  "Manage trainers of team": "Tvarkyti komandos trenerius",
+  "Manage athletes of team": "Tvarkyti komandos sportininkus",
+
+  "Enter team's name": "Įveskite komandos pavadinimą",
+  "Enter team's description": "Įveskite komandos aprašymą",
+
+  "This action cannot be undone. This will permanently deletes team's ({{name}}) data. Trainers and athletes of the team will be removed from this team": "Šio veiksmo anuliuoti negalima. Taip visam laikui bus ištrinti komandos ({{name}}) duomenys. Komandos treneriai ir sportininkai bus pašalinti iš šios komandos",
+
+  "Creating team, please wait": "Komanda kuriama, prašome palaukti",
+  "Deleting team, please wait": "Komanda trinama, prašome palaukti",
+  "Updating team's information, please wait": "Komandos informacija atnaujinama, prašome palaukti",
+
+  "Team has been created successfully": "Komanda sėkmingai sukurta",
+  "Team has been updated successfully": "Komanda sėkmingai atnaujinta",
+  "Team has been deleted successfully": "Komanda sėkmingai ištrinta",
+  "Members of team has been updated successfully": "Komandos nariai atnaujinti sėkmingai"
+}

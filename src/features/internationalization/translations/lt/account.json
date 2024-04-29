@@ -1,0 +1,23 @@
+{
+  "Account": "Paskyra",
+  "My account": "Mano paskyra",
+  "My account information": "Mano paskyros informacija",
+  "View account": "Žiūrėti paskyrą",
+  "Edit account": "Redaguoti paskyrą",
+  "Delete account": "Ištrinti paskyrą",
+
+  "Email address is used to login to the account": "El. pašto adresas naudojamas jungiantis prie paskyros",
+  "After changing the email address, the user must use it when logging in": "Pakeitus el. pašto adresą, vartotojas privalės jį naudoti prisijungiant prie paskyros",
+
+  "Account information": "Paskyros informacija",
+  "Account creation date": "Paskyros sukūrimo data",
+  "User's first login date, when email address were verified": "Pirmo vartotojo prisijungimo data, kai patvirtintas el. pašto adresas",
+
+  "Set lock": "Nustatyti užraktą",
+  "Lock reason": "Užrakto priežastis",
+  "Lock due to non-payment": "Užrakinimas dėl negauto apmokėjimo",
+  "Lock due to end of trial period": "Užrakinimas dėl bandomojo laikotarpio pabaigos",
+  "Lock due to other reasons": "Užrakinimas dėl kitų priežasčių",
+  "User is already locked. Please confirm unlock process, by clicking \"Unlock\" button.": "Vartotojas yra užrakintas. Prašome patvirtinti atrakinimo procesą, paspausdami \"Atrakinti\" mygtuką.",
+  "Lock status indicates whether the account can be used": "Užrakto statusas nurodo ar galima naudotis paskyra"
+}

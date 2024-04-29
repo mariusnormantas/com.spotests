@@ -1,0 +1,24 @@
+{
+  "Name is required": "Pavadinimas yra privalomas",
+  "Name does not match requirements": "Pavadinimas neatitinka reikalavimų",
+  "Name should contain between 2 and 64 symbols": "Pavadinimą turi sudaryti nuo 2 iki 64 simbolių",
+  "Name is not valid, please enter {{name}}": "Pavadinimas neatitinka reikalavimų, prašome įvesti {{name}}",
+
+  "Date is not valid, please enter {{date}}": "Data neatitinka reikalavimų, prašome įvesti {{date}}",
+
+  "Description should be up to 250 symbols": "Aprašymą turi sudaryti iki 250 simbolių",
+
+  "Email address is required": "El. pašto adresas yra privalomas",
+  "Email address does not match requirements": "El. pašto adresas neatitinka reikalavimų",
+
+  "Passwords do not match": "Slaptažodžiai nesutampa",
+  "Password must contain at least one capital letter, one number, and one symbol": "Slaptažodį privalo sudaryti bent viena didžioji raidė, skaičius bei specialus simbolis",
+  "Password should contain between 4 and 127 symbols": "Slaptažodį turi sudaryti nuo 4 iki 127 simbolių",
+
+  "Please enter value between 0 and 999": "Reikšmė privalo būti nuo 0 iki 999",
+  "Please enter value between 0 and 9999": "Reikšmė privalo būti nuo 0 iki 9999",
+  "Please enter value between 0 and 3": "Reikšmė privalo būti nuo 0 iki 3",
+  "Please enter value between 0 and 300": "Reikšmė privalo būti nuo 0 iki 300",
+
+  "Invalid date format. Please use the format YYYY-MM-DD": "Netinkamas datos formatas. Prašome naudoti YYYY-MM-DD formatą"
+}

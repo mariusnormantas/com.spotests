@@ -1,0 +1,28 @@
+{
+  "Interaction": "Įvykis",
+  "Interactions": "Įvykių istorija",
+
+  "No title": "Pavadinimo nėra",
+  "No description": "Aprašymo nėra",
+
+  "Account updated": "Paskyra atnaujinta",
+  "Account locked": "Paskyra užrakinta",
+  "Account unlocked": "Paskyra atrakinta",
+  "Organization created": "Organizacija sukurta",
+  "Limits updated": "Limitai atnaujinti",
+  "Team created": "Komanda sukurta",
+  "Team updated": "Komanda atnaujinta",
+  "Team deleted": "Komanda ištrinta",
+  "Team added": "Komanda pridėta",
+  "Team removed": "Komanda pašalinta",
+  "Members updated": "Nariai atnaujinti",
+  "Trainer created": "Treneris sukurtas",
+  "Trainer updated": "Treneris atnaujintas",
+  "Trainer deleted": "Treneris ištrintas",
+  "Athlete created": "Sportininkas sukurtas",
+  "Athlete updated": "Sportininkas atnaujintas",
+  "Athlete deleted": "Sportininkas ištrintas",
+  "Testing created": "Testavimas sukurtas",
+  "Testing updated": "Testavimas atnaujintas",
+  "Testing deleted": "Testavimas ištrintas"
+}

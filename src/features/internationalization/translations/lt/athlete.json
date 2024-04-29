@@ -1,0 +1,36 @@
+{
+  "Athlete": "Sportininkas",
+  "Athletes": "Sportininkai",
+  "New athlete": "Naujas sportininkas",
+  "Overview of Athlete": "Sportininko apžvalga",
+  "Overview of Athletes": "Sportininkų apžvalga",
+  "List of Athletes": "Sportininkų sąrašas",
+  "Create new athlete": "Sukurti naują sportininką",
+  "Edit athlete": "Redaguoti sportininką",
+  "Delete athlete": "Ištrinti sportininką",
+
+  "Age": "Amžius",
+  "Height": "Ūgis",
+  "Weight": "Svoris",
+
+  "Athletes of organization": "Organizacijos sportininkai",
+  "Athletes of team": "Komandos sportininkai",
+
+  "Organization, where athlete belongs": "Organizacija, kuriai priklauso sportininkas",
+
+  "Enter athlete's name": "Įveskite sportininko pavadinimą",
+  "Enter athlete's email address": "Įveskite sportininko el. pašto adresą",
+  "Enter athlete's birth date": "Įveskite sportininko gimimo datą",
+  "Enter athlete's height": "Įveskite sportininko ūgį",
+  "Enter athlete's weight": "Įveskite sportininko svorį",
+
+  "Creating athlete, please wait": "Sportininkas kuriamas, prašome palaukti",
+  "Updating athlete's information, please wait": "Sportininko informacija atnaujinama, prašome palaukti",
+  "Deleting athlete, please wait": "Sportininkas trinamas, prašome palaukti",
+
+  "This action cannot be undone. This will permanently deletes athlete's ({{name}}) data, testings and other associations": "Šio veiksmo anuliuoti negalima. Taip visam laikui bus ištrinti sportininko ({{name}}) duomenys, testavimai ir kitos sąsajos",
+
+  "Athlete has been created successfully": "Sportininkas sėkmingai sukurtas",
+  "Athlete has been updated successfully": "Sportininko informacija atnaujinta sėkmingai",
+  "Athlete has been deleted successfully": "Sportininkas sėkmingai ištrintas"
+}

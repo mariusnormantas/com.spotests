@@ -1,0 +1,29 @@
+{
+  "Trainer": "Treneris",
+  "Trainers": "Treneriai",
+  "New trainer": "Naujas treneris",
+  "Overview of Trainer": "Trenerio apžvalga",
+  "Overview of Trainers": "Trenerių apžvalga",
+  "List of Trainers": "Trenerių sąrašas",
+  "Create new trainer": "Sukurti naują trenerį",
+  "Edit trainer": "Redaguoti trenerį",
+  "Delete trainer": "Ištrinti trenerį",
+
+  "Trainers of organization": "Organizacijos treneriai",
+  "Trainers of team": "Komandos treneriai",
+
+  "Organization, where trainer belongs": "Organizacija, kuriai priklauso treneris",
+
+  "Enter trainer's name": "Įveskite trenerio pavadinimą",
+  "Enter trainer's email address": "Įveskite trenerio el. pašto adresą",
+
+  "This action cannot be undone. This will permanently deletes trainer's ({{name}}) data and other associations": "Šio veiksmo anuliuoti negalima. Taip visam laikui bus ištrinti trenerio ({{name}}) duomenys ir kitos sąsajos",
+
+  "Creating trainer, please wait": "Treneris kuriamas, prašome palaukti",
+  "Updating trainer's information, please wait": "Trenerio informacija atnaujinama, prašome palaukti",
+  "Deleting trainer, please wait": "Treneris trinamas, prašome palaukti",
+
+  "Trainer has been created successfully": "Treneris sėkmingai sukurtas",
+  "Trainer has been updated successfully": "Treneris sėkmingai atnaujintas",
+  "Trainer has been deleted successfully": "Treneris sėkmingai ištrintas"
+}
